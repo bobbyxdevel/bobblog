@@ -1,7 +1,7 @@
 site_name: BobbyX-Dev's Blog, Documentation, Wiki and more!
 nav:
   - Home: index.md
-  - Blog:
+  - blog:
     - Linux > Windows: post001.md
     - Test: post002.md
   - About: about.md

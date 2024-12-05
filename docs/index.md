@@ -1,1 +1,1 @@
-![[Arch001.png]]
+[[assets/Arch001.png]]

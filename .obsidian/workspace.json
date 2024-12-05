@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -159,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +174,13 @@
   },
   "active": "efde07f685635728",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "docs/index.md",
     "assets/Arch001.png",
     "docs/attachments/Arch001.png",
-    "docs/index.md",
     "docs/attachments",
     "assets",
-    "templates",
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    "templates"
   ]
 }

@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/home.md.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home.md"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/home.md.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for home.md"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/home.md.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from home.md"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -173,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efde07f685635728",
+  "active": "8855cdc572aac146",
   "lastOpenFiles": [
-    "docs/index.md.md",
     "docs/home.md.md",
+    "docs/index.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "assets/Arch001.png",

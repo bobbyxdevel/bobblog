@@ -1,11 +1,9 @@
 site_name: BobbyxDev's Library
 site_description: BobbyXDev's comprehensive documentation, blog, and other resources.
 site_url: https://blog.bobbyxdev.com
-
 nav:
   - Home: home.md
   - About: about.md
-
 theme:
   name: material
   logo: assets/Arch001.png

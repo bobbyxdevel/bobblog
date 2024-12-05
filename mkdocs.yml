@@ -2,6 +2,7 @@ site_name: BobbyX-Dev's Blog, Documentation, Wiki and more!
 nav:
   - Home: index.md
   - About: about.md
+  - Post: post001.md
 
 theme:
   name: material

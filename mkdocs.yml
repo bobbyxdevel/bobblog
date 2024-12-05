@@ -1,4 +1,6 @@
-site_name: Bobblog
+site_name: BobbyxDev Library
+site_description: BobbyXDev's comprehensive documentation, blog, and other resources.
+site_url: https://blog.bobbyxdev.com
 
 theme:
   name: material

@@ -1,22 +1,4 @@
-site_name: BobbyxDev's Library
-site_description: BobbyXDev's comprehensive documentation, blog, and other resources.
-#site_url: https://blog.bobbyxdev.com/
+site_name: My Docs
+
 theme:
   name: material
-  palette:
-    scheme: slate
-  features:
-    - navigation.top
-    - navigation.footer
-    - navigation.indexes
-    - navigation.sections
-    - content.code.copy
-    - content.code.annotate
-    - content.tabs.link
-    - search.suggest
-    - search.highlight
-    - search.share
-
-plugins: 
-  - search
-  - social
